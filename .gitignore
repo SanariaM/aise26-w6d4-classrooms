@@ -1,3 +1,0 @@
-# Ignore Python virtual environment and pytest cache
-.venv/
-.pytest_cache/.DS_Store
