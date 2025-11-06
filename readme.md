@@ -40,7 +40,7 @@ python live-coding/02_kafka_partitions.py C2
 
 ## Repo Layout
 ```
-W6D4-eda/
+aise26-w6d4-classrooms/
 ├─ requirements.txt
 ├─ README.md
 ├─ lesson-materials/
